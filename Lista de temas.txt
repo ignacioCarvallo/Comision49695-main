@@ -1,0 +1,40 @@
+LISTAS
+    ul
+    ol
+    li
+
+TABLAS
+    table
+    th
+    tr
+    td
+
+FORMULARIOS
+    input
+    textarea
+    label
+    type
+    name
+    submit
+    reset
+    radio
+    checkbox
+    select-option
+
+ENLACES
+    a
+    href
+    target
+    id
+
+IMAGENES
+    img
+    src
+    alt
+    title
+
+VIDEOS
+    iframe
+    
+
+FAVICON
