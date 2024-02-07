@@ -34,6 +34,59 @@ body {
     color: white;
 }
 
+<<<<<<< HEAD
+=======
+.formulario {
+    background-color: #eb0e62;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.formulario h1 {
+    text-align: center;
+}
+
+.formulario h2 {
+    margin-bottom: 20px;
+}
+
+.formulario label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario input[type="number"],
+.formulario textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #0c0c0c;
+    border-radius: 5px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+.formulario button {
+    background-color: #8a0606;
+    border:#000;
+    color: #0efa49;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.formulario button[type="reset"] {
+    background-color: #ccc;
+    color: #000;
+    margin-left: 10px;
+}
+
+>>>>>>> 1f7b164 (entrega Final)
 
 .titulo,
 h1,
@@ -73,4 +126,9 @@ h2 {
     padding: 2rem;
     margin-top: 20px;
     text-align: center;
+<<<<<<< HEAD
+=======
+    flex: 1
+    ;
+>>>>>>> 1f7b164 (entrega Final)
 }
